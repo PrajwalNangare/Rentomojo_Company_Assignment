@@ -1,4 +1,4 @@
-# Games-Arena
+# Games-List
 Develop a pseudo front end application which would let the users help list and browse games developed for different platforms conveniently.
 
 ## Features
@@ -8,6 +8,7 @@ Develop a pseudo front end application which would let the users help list and b
 - Submit Screenshot, Source code & Instructions.
 - A feature to Search (via name).
 - Implement Sort feature (to filter through ‘score’ in ascending and descending order).
+- Implement feature to sort games based on platform (List on PS games or any other platforms) 
 - Add autocomplete feature to Search games conveniently .
 - Custom elegant design, fonts and icons to make web app more user-friendly.
 - Use your imagination and add features which would make things easier for end users.
@@ -22,7 +23,7 @@ The project uses [Node.js >= 6.x](https://nodejs.org/en/) and the [Create-React-
 After Node is installed in your system, follow the below steps.
 
 1. Navigate to the directory where you want to store the app.
-2. Clone the repo `git clone github link.git`
+2. Clone the repo `git clone .git`
 3. Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 4. Launch the app with this command `npm start`
 
@@ -52,7 +53,7 @@ Sort by score (high to low)
 Suggestions
 ![Suggestions](screenshots/5.png)
 
-My website manishbisht.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
+My website PrajwalNangare.me is https only so click on load the unsafe scripts while checking the demo as the GAMES API is HTTP only.
 
 ![Error0](screenshots/6.png)
 ![Error1](screenshots/7.png)

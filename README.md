@@ -36,19 +36,4 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 2. Deploy it to `gh-pages` branch by `npm run deploy`
 3. Check the online demo [here](https://github.com/PrajwalNangare/Rentomojo_Company_Assignment)
 
-## Screenshots
-Project Home Page
-![HomePage](screenshots/1.png)
-
-Search Feature
-![Search](screenshots/2.png)
-
-Sort by score (Low to high)
-![Sort by score (Low to high)](screenshots/3.png)
-
-Sort by score (high to low)
-![Sort by score (high to low)](screenshots/4.png)
-
-Suggestions
-![Suggestions](screenshots/5.png)
 

@@ -35,7 +35,7 @@ A new browser window open automatically displaying the app.  If it doesn't, navi
 
 1. Build the production ready optimised code. `npm run build`
 2. Deploy it to `gh-pages` branch by `npm run deploy`
-3. Check the online demo [here](https://manishbisht.github.io/Games-Arena)
+3. Check the online demo [here](https://github.com/PrajwalNangare/Rentomojo_Company_Assignment)
 
 ## Screenshots
 Project Home Page
